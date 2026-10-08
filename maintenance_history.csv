@@ -1,0 +1,7 @@
+date,machine_id,event_type,confirmed_issue,action_taken,downtime_min,technician_notes
+2026-01-08,Machine B,Inspection,Bearing wear confirmed,Bearing replaced,95,Vibration signature matched early bearing wear.
+2026-01-19,Machine A,Routine service,,Lubrication,20,No issues found.
+2026-02-02,Machine C,Inspection,,None,0,False alarm from sensor drift; recalibrated.
+2026-02-14,Machine B,Inspection,Coupling misalignment,Realigned coupling,60,Temperature rise traced to misalignment.
+2026-03-03,Machine A,Routine service,,Filter change,15,Scheduled service.
+2026-03-21,Machine C,Inspection,Bearing wear confirmed,Bearing replaced,110,Confirmed after repeated vibration alerts.

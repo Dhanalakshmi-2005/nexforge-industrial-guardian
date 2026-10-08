@@ -1,0 +1,4 @@
+machine_id,line,location,status
+Machine A,Line 1,Demo hall,Running
+Machine B,Line 2,Demo hall,Running
+Machine C,Line 3,Demo hall,Running
